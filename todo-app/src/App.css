@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+
+.App{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Pattaya', sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+/* #root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  
+} */
+
+body{
+  font-family: 'Pattaya', sans-serif;
+  width: 100vw;
+}
+
+
+
+.card{
+  width: 60%;
+  padding: 20px;
+}
+
+
